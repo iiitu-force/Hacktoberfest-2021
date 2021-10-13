@@ -5,7 +5,7 @@
     </a>
 </p>
 
-# Hacktoberfest-2020
+# Hacktoberfest-2021
 Participate in Hacktoberfest by contributing to FORCE-IIITU in this repository. 
 
 ## Help Contributing Guides :crown:
