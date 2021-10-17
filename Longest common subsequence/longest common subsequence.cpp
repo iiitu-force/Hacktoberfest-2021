@@ -18,7 +18,7 @@ int longestsub(string x,string y,int n,int m){
     return result;
 }
 int main() {
-      string x="abcdaf";
+      string x="abcdaftt";
       string y="zbcdf";
       int n=x.length();
       int m=y.length();
